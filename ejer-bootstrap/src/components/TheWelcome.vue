@@ -84,5 +84,8 @@ import SupportIcon from './icons/IconSupport.vue'
     As an independent project, Vue relies on community backing for its sustainability. You can help
     us by
     <a href="https://vuejs.org/sponsor/" target="_blank" rel="noopener">becoming a sponsor</a>.
+      <button type="button" class="btn btn-primary"> </button>
   </WelcomeItem>
+
+
 </template>
